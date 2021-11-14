@@ -1,6 +1,7 @@
 import './App.css';
-import Books from './Books';
-import Readers from './Readers';
+import Books from './components/Books';
+import Readers from './components/Readers';
+
 function App() {
   return (
     <div className="App">
