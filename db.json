@@ -1,0 +1,39 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "Harry Potter and the Sorcerer's Stone",
+      "numOfPages": 576,
+      "author": "J.K Rowligns"
+    },
+    {
+      "id": 2,
+      "name": "Lord Of The Rings",
+      "numOfPages": 638,
+      "author": "J. R. R. Tolkien"
+    },
+    {
+      "id": 3,
+      "name": "Don Quixote",
+      "numOfPages": 750,
+      "author": "Miguel de Cervantes"
+    }
+  ],
+  "readers" : [
+    {
+      "id": 1,
+      "name": "Eric Sabag",
+      "alreadyReadBooks": [1, 2]
+    },
+    {
+      "id": 2,
+      "name": "Robert James",
+      "alreadyReadBooks": [1, 2]
+    },
+    {
+      "id": 3,
+      "name": "Chris Smith",
+      "alreadyReadBooks": [1]
+    }
+  ]
+}
